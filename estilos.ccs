@@ -11,12 +11,12 @@
 
 p{
     font-size: xx-large;
-    padding: 15%;
+    padding: 50%;
 }
 
 button{
     font-size: xx-large;
-    padding: 0.75em;
+    padding: 75em;
 }
 
 #yesBtn{
